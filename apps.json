@@ -17,12 +17,14 @@
         {
           "version": "1.2",
           "date": "2026-09-07",
+          "localizedDescription": "Version 1.2 — Update-Test über die SideStore-Source.",
           "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/HelloSideload-unsigned-1.2.ipa",
           "size": 12744
         },
         {
           "version": "1.1",
           "date": "2026-09-07",
+          "localizedDescription": "Version 1.1 — automatischer Build via GitHub Actions.",
           "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/HelloSideload-unsigned-1.1.ipa",
           "size": 12744
         },
