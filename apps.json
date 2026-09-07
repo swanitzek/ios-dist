@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.23",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.23 — Moonlit. 72d482d perf(scroll): Thumbnail-Decode/Disk-I/O nicht mehr auf MainActor, 5752cb5 fix(sync): 171-Bilder-Sync scheiterte an sequenziellen Einzel-Requests",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.23.ipa",
+          "size": 410851
+        },
+        {
           "version": "0.2.22",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.22 — Moonlit. 5752cb5 fix(sync): 171-Bilder-Sync scheiterte an sequenziellen Einzel-Requests, e043621 feat(offline-sync): neue Alben sofort offline, Sync zum Server, Zwischenablage-Einfuegen",
