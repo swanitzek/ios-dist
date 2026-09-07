@@ -36,6 +36,24 @@
           "size": 11048
         }
       ]
+    },
+    {
+      "name": "Moonlit",
+      "bundleIdentifier": "eu.dreambyte.moonlit",
+      "developerName": "Stefan Wanitzek",
+      "subtitle": "Private Mediengalerie",
+      "localizedDescription": "Private Galerie für Bilder und Videos vom eigenen Homeserver.",
+      "iconURL": "https://swanitzek.github.io/ios-dist/icons/moonlit.png",
+      "tintColor": "A8C0FF",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.1.0 — Layout-Phase (Fake-Daten, noch ohne Server-Anbindung).",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.1.0.ipa",
+          "size": 103329
+        }
+      ]
     }
   ],
   "news": []
