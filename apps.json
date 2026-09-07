@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.27",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.27 — Moonlit. 5b0007c feat(album-flow): Fokus, direkte Navigation und Sync-Fortschritt, 0789c78 feat(viewer): Videos mit AVPlayer streamen und offline abspielen, 8e5a9c8 feat(selection): Alle auswaehlen und in Fotos exportieren",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.27.ipa",
+          "size": 483510
+        },
+        {
           "version": "0.2.26",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.26 — Moonlit. 8e5a9c8 feat(selection): Alle auswaehlen und in Fotos exportieren, 18c86dc fix(selection): Auswahlmodus per Button statt Long-Press",
