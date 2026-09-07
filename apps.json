@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.14",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.14 — Moonlit. a7ab23a feat(offline): Alben mit Vollbildern offline speichern und filtern, ff845da feat(settings): Cache-Größe und Bereinigung in Einstellungen verwalten",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.14.ipa",
+          "size": 320603
+        },
+        {
           "version": "0.2.13",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.13 — Moonlit. ff845da feat(settings): Cache-Größe und Bereinigung in Einstellungen verwalten, 3c3a94e feat(privacy): automatisch bei Hintergrund sperren und App-Switcher abschirmen",
