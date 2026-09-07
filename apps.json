@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.26",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.26 — Moonlit. 8e5a9c8 feat(selection): Alle auswaehlen und in Fotos exportieren, 18c86dc fix(selection): Auswahlmodus per Button statt Long-Press",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.26.ipa",
+          "size": 451220
+        },
+        {
           "version": "0.2.25",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.25 — Moonlit. 18c86dc fix(selection): Auswahlmodus per Button statt Long-Press, 8aeca64 feat(selection): Mehrfachauswahl in AlbumDetailView (loeschen/teilen)",
