@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.24",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.24 — Moonlit. 8aeca64 feat(selection): Mehrfachauswahl in AlbumDetailView (loeschen/teilen), 72d482d perf(scroll): Thumbnail-Decode/Disk-I/O nicht mehr auf MainActor",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.24.ipa",
+          "size": 442073
+        },
+        {
           "version": "0.2.23",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.23 — Moonlit. 72d482d perf(scroll): Thumbnail-Decode/Disk-I/O nicht mehr auf MainActor, 5752cb5 fix(sync): 171-Bilder-Sync scheiterte an sequenziellen Einzel-Requests",
