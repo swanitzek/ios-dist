@@ -10,6 +10,7 @@
       "bundleIdentifier": "eu.dreambyte.hellosideload",
       "developerName": "Stefan Wanitzek",
       "subtitle": "SwiftUI Hello World",
+      "iconURL": "https://swanitzek.github.io/ios-dist/icons/hello-sideload.png",
       "localizedDescription": "Minimale SwiftUI-Test-App fürs Sideloading auf dem iPhone 14 Pro.",
       "tintColor": "0A84FF",
       "versions": [
