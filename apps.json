@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.18",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.18 — Moonlit. ab12b4b fix(build): onChange(of:) iOS16-kompatible Ein-Parameter-Variante, 5e66e6c feat(online): Bilder hinzufuegen, Alben anlegen, Drag&Drop-Reorder, 24af777 fix(offline): Cover-Thumbnails im Offline-Grid — coverURL war fest nil",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.18.ipa",
+          "size": 370203
+        },
+        {
           "version": "0.2.17",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.17 — Moonlit. af3ccaf fix(build): AccessibilityTraits ist OptionSet — '+' entfernt (disabled() setzt Traits selbst), dbcaa10 feat(ui): Offline ist Standard-Filter; 'Alle' im Offline-Modus ausgegraut, 69672a1 fix(ui): Filterleiste aus ScrollView in festen Kopfbereich — Offline/Alle antippbar",
