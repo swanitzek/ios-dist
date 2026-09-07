@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.1.2",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.1.2 — Layout-Phase (Fake-Daten, noch ohne Server-Anbindung).",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.1.2.ipa",
+          "size": 111774
+        },
+        {
           "version": "0.1.1",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.1.1 — Layout-Phase (Fake-Daten, noch ohne Server-Anbindung).",
