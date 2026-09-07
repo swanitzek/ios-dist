@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.5",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.5 — Moonlit.",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.5.ipa",
+          "size": 217244
+        },
+        {
           "version": "0.2.4",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.4 — Moonlit.",
