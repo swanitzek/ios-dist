@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.20",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.20 — Moonlit. f4ce1f2 fix(build): offlineOnly gibt es nur in GalleryView, nicht in AlbumDetailView, 0b1f21e fix(reorder): Drag&Drop ging nie, plus lokales Offline-Override, 33a3474 fix(ui): Drag&Drop-Ablegen und Sichtbarkeit neuer Alben",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.20.ipa",
+          "size": 381984
+        },
+        {
           "version": "0.2.19",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.19 — Moonlit. 33a3474 fix(ui): Drag&Drop-Ablegen und Sichtbarkeit neuer Alben, ab12b4b fix(build): onChange(of:) iOS16-kompatible Ein-Parameter-Variante, 5e66e6c feat(online): Bilder hinzufuegen, Alben anlegen, Drag&Drop-Reorder",
