@@ -1,0 +1,27 @@
+{
+  "name": "Stefans iOS Dist",
+  "identifier": "eu.dreambyte.ios-dist",
+  "sourceURL": "https://swanitzek.github.io/ios-dist/apps.json",
+  "subtitle": "Hello Sideload (später: Moonlit)",
+  "description": "Private SideStore-Quelle für Stefans eigene Apps. IPAs werden hier unsigniert abgelegt und von SideStore auf dem iPhone lokal signiert.",
+  "apps": [
+    {
+      "name": "Hello Sideload",
+      "bundleIdentifier": "eu.dreambyte.hellosideload",
+      "developerName": "Stefan Wanitzek",
+      "subtitle": "SwiftUI Hello World",
+      "localizedDescription": "Minimale SwiftUI-Test-App fürs Sideloading auf dem iPhone 14 Pro.",
+      "tintColor": "0A84FF",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-09-06",
+          "localizedDescription": "Erster Sideload-Build.",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/HelloSideload-unsigned-1.0.ipa",
+          "size": 11048
+        }
+      ]
+    }
+  ],
+  "news": []
+}
