@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.12",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.12 — Moonlit. 3c3a94e feat(privacy): automatisch bei Hintergrund sperren und App-Switcher abschirmen, 160f3db fix(ios16): import SwiftUI for cache views; replace iOS17 empty-state API, b02437e feat(gallery): private thumbnail cache and unlimited nested subalbums",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.12.ipa",
+          "size": 238374
+        },
+        {
           "version": "0.2.11",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.11 — Moonlit. 160f3db fix(ios16): import SwiftUI for cache views; replace iOS17 empty-state API, b02437e feat(gallery): private thumbnail cache and unlimited nested subalbums, 7157e03 chore(ui): veraltete Hero-Messung nach UIKit-Viewer entfernen",
