@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.19",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.19 — Moonlit. 33a3474 fix(ui): Drag&Drop-Ablegen und Sichtbarkeit neuer Alben, ab12b4b fix(build): onChange(of:) iOS16-kompatible Ein-Parameter-Variante, 5e66e6c feat(online): Bilder hinzufuegen, Alben anlegen, Drag&Drop-Reorder",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.19.ipa",
+          "size": 370657
+        },
+        {
           "version": "0.2.18",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.18 — Moonlit. ab12b4b fix(build): onChange(of:) iOS16-kompatible Ein-Parameter-Variante, 5e66e6c feat(online): Bilder hinzufuegen, Alben anlegen, Drag&Drop-Reorder, 24af777 fix(offline): Cover-Thumbnails im Offline-Grid — coverURL war fest nil",
