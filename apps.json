@@ -15,6 +15,12 @@
       "tintColor": "0A84FF",
       "versions": [
         {
+          "version": "1.2",
+          "date": "2026-09-07",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/HelloSideload-unsigned-1.2.ipa",
+          "size": 12744
+        },
+        {
           "version": "1.1",
           "date": "2026-09-07",
           "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/HelloSideload-unsigned-1.1.ipa",
