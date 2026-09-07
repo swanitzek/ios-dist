@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.9",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.9 — Moonlit. a012cc7 fix(viewer): Bild nicht mehr reingezoomt — frame=bounds + scaleAspectFit statt manueller Grösse, 199fb58 fix(viewer): Optional-Uunwrap in fitImage (center(imageView)), aed3232 fix(viewer): Bild als UIImage laden statt AsyncImage; Double-Tap-Punkt in Scroll-Koord",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.9.ipa",
+          "size": 216253
+        },
+        {
           "version": "0.2.8",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.8 — Moonlit. 199fb58 fix(viewer): Optional-Uunwrap in fitImage (center(imageView)), aed3232 fix(viewer): Bild als UIImage laden statt AsyncImage; Double-Tap-Punkt in Scroll-Koord, ad825be fix(xcode): PBX-Objekt-ID-Kollision behoben (ZoomableImage FileReference)",
