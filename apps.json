@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.7",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.7 — Moonlit. f28a2a8 fix(ui): Hero-Übergang auf Bildfläche statt Gesamtfläche — Zucken behoben, d411b3c fix(ci): SideStore-Kurzfassung erzeugen (awk statt paste/printf), 87f87c1 ci(release): Zusammenfassung der Änderungen in die Release-Description",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.7.ipa",
+          "size": 225157
+        },
+        {
           "version": "0.2.6",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.6 — Moonlit.",
