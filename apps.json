@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.22",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.22 — Moonlit. 5752cb5 fix(sync): 171-Bilder-Sync scheiterte an sequenziellen Einzel-Requests, e043621 feat(offline-sync): neue Alben sofort offline, Sync zum Server, Zwischenablage-Einfuegen",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.22.ipa",
+          "size": 408293
+        },
+        {
           "version": "0.2.21",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.21 — Moonlit. e043621 feat(offline-sync): neue Alben sofort offline, Sync zum Server, Zwischenablage-Einfuegen, f4ce1f2 fix(build): offlineOnly gibt es nur in GalleryView, nicht in AlbumDetailView, 0b1f21e fix(reorder): Drag&Drop ging nie, plus lokales Offline-Override",
