@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.16",
+          "date": "2026-09-07",
+          "localizedDescription": "Version 0.2.16 — Moonlit. 69672a1 fix(ui): Filterleiste aus ScrollView in festen Kopfbereich — Offline/Alle antippbar, 528b4bc fix(ui): Offline vor Alle in der Filterleiste, 781ee83 fix(offline): Offline-Album aus echtem Katalog laden; Filter antippbar, Online-Tab raus",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.16.ipa",
+          "size": 322720
+        },
+        {
           "version": "0.2.15",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.15 — Moonlit. 528b4bc fix(ui): Offline vor Alle in der Filterleiste, 781ee83 fix(offline): Offline-Album aus echtem Katalog laden; Filter antippbar, Online-Tab raus, a7ab23a feat(offline): Alben mit Vollbildern offline speichern und filtern",
