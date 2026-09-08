@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.42",
+          "date": "2026-09-08",
+          "localizedDescription": "Version 0.2.42 — Moonlit. 4667e63 fix(sync): fehlende lokale Quellen aus Queue entfernen, e9bfcac fix(video): lokale Vorschau robuster und Audio aktivieren",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.42.ipa",
+          "size": 657068
+        },
+        {
           "version": "0.2.41",
           "date": "2026-09-08",
           "localizedDescription": "Version 0.2.41 — Moonlit. e9bfcac fix(video): lokale Vorschau robuster und Audio aktivieren, 8b54ed5 fix(offline): Picker-Videos korrekt importieren und vorschaubild erzeugen, e48fec0 fix(sync): erst nach laufendem Background-Batch sperren",
