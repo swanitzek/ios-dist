@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.31",
+          "date": "2026-09-08",
+          "localizedDescription": "Version 0.2.31 — Moonlit. d8aef4e feat(#20,#12,#23): Sync-Zentrale mit persistenter Warteschlange, 99a0b34 fix: Face-ID-Automatik nach Lock + Offline-Ansicht ohne Serverabruf",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.31.ipa",
+          "size": 604499
+        },
+        {
           "version": "0.2.30",
           "date": "2026-09-08",
           "localizedDescription": "Version 0.2.30 — Moonlit. 99a0b34 fix: Face-ID-Automatik nach Lock + Offline-Ansicht ohne Serverabruf, 021bc9a fix: Thumbnails nach Restore + Face ID einmal automatisch anbieten",
