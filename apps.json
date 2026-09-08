@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.41",
+          "date": "2026-09-08",
+          "localizedDescription": "Version 0.2.41 — Moonlit. e9bfcac fix(video): lokale Vorschau robuster und Audio aktivieren, 8b54ed5 fix(offline): Picker-Videos korrekt importieren und vorschaubild erzeugen, e48fec0 fix(sync): erst nach laufendem Background-Batch sperren",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.41.ipa",
+          "size": 650898
+        },
+        {
           "version": "0.2.40",
           "date": "2026-09-08",
           "localizedDescription": "Version 0.2.40 — Moonlit. 8b54ed5 fix(offline): Picker-Videos korrekt importieren und vorschaubild erzeugen, e48fec0 fix(sync): erst nach laufendem Background-Batch sperren, f3f4004 fix(build): Namenskollision bei Zwischenablage-Typen aufloesen",
