@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.30",
+          "date": "2026-09-08",
+          "localizedDescription": "Version 0.2.30 — Moonlit. 99a0b34 fix: Face-ID-Automatik nach Lock + Offline-Ansicht ohne Serverabruf, 021bc9a fix: Thumbnails nach Restore + Face ID einmal automatisch anbieten",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.30.ipa",
+          "size": 516869
+        },
+        {
           "version": "0.2.29",
           "date": "2026-09-08",
           "localizedDescription": "Version 0.2.29 — Moonlit. 021bc9a fix: Thumbnails nach Restore + Face ID einmal automatisch anbieten, 0e02c86 fix(build): pbxproj-ID-Kollision — NavigationRestore ueberschrieb den Target, 7b6de02 feat(#2): animierte GIFs und WebP im Vollbild abspielen",
