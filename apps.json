@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.32",
+          "date": "2026-09-08",
+          "localizedDescription": "Version 0.2.32 — Moonlit. 2bf025a fix: abgelaufene Server-Sitzung erkennen statt 'Album konnte nicht angelegt werden', d8aef4e feat(#20,#12,#23): Sync-Zentrale mit persistenter Warteschlange",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.32.ipa",
+          "size": 608429
+        },
+        {
           "version": "0.2.31",
           "date": "2026-09-08",
           "localizedDescription": "Version 0.2.31 — Moonlit. d8aef4e feat(#20,#12,#23): Sync-Zentrale mit persistenter Warteschlange, 99a0b34 fix: Face-ID-Automatik nach Lock + Offline-Ansicht ohne Serverabruf",
