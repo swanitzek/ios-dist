@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.28",
+          "date": "2026-09-08",
+          "localizedDescription": "Version 0.2.28 — Moonlit. 0e02c86 fix(build): pbxproj-ID-Kollision — NavigationRestore ueberschrieb den Target, 7b6de02 feat(#2): animierte GIFs und WebP im Vollbild abspielen, 4a0f18b fix(#10): Passwortdialog vereinfachen",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.28.ipa",
+          "size": 507900
+        },
+        {
           "version": "0.2.27",
           "date": "2026-09-07",
           "localizedDescription": "Version 0.2.27 — Moonlit. 5b0007c feat(album-flow): Fokus, direkte Navigation und Sync-Fortschritt, 0789c78 feat(viewer): Videos mit AVPlayer streamen und offline abspielen, 8e5a9c8 feat(selection): Alle auswaehlen und in Fotos exportieren",
