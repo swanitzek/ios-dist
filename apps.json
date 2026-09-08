@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.46",
+          "date": "2026-09-08",
+          "localizedDescription": "Version 0.2.46 — Moonlit. 129f034 fix(views): drei Client-Fixes (#36, #38, #41), 51796b4 fix(sync): reauthenticate before offline image upload",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.46.ipa",
+          "size": 688962
+        },
+        {
           "version": "0.2.45",
           "date": "2026-09-08",
           "localizedDescription": "Version 0.2.45 — Moonlit. 51796b4 fix(sync): reauthenticate before offline image upload, e89ef99 fix(sync): Dialog-Fallback Swift-5-kompatibel formulieren, 54159fd fix(sync): iOS-16-kompatiblen Verwerfen-Dialog nutzen",
