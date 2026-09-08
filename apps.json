@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.37",
+          "date": "2026-09-08",
+          "localizedDescription": "Version 0.2.37 — Moonlit. d1bcccb fix(#40): Clipboard-Bildformate als Originaldaten uebernehmen, b862db1 fix: neue Offline-Alben am Ende statt alphabetisch sortieren, 7dc3047 fix(#34): Offline-Paste nur nach dauerhafter Speicherung zaehlen",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.37.ipa",
+          "size": 630153
+        },
+        {
           "version": "0.2.36",
           "date": "2026-09-08",
           "localizedDescription": "Version 0.2.36 — Moonlit. 7dc3047 fix(#34): Offline-Paste nur nach dauerhafter Speicherung zaehlen, 95b78ae fix(#33): Teilfehler beim Batch-Upload korrekt zaehlen, 1f33ab3 fix(#31,#32): Grid nach Loeschen aller Bilder leeren, Drag-Overlay aufraeumen",
