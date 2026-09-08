@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.38",
+          "date": "2026-09-08",
+          "localizedDescription": "Version 0.2.38 — Moonlit. 01f08a3 fix(#40): Clipboard-Provider laden und Formatdiagnose anzeigen, d1bcccb fix(#40): Clipboard-Bildformate als Originaldaten uebernehmen, b862db1 fix: neue Offline-Alben am Ende statt alphabetisch sortieren",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.38.ipa",
+          "size": 641091
+        },
+        {
           "version": "0.2.37",
           "date": "2026-09-08",
           "localizedDescription": "Version 0.2.37 — Moonlit. d1bcccb fix(#40): Clipboard-Bildformate als Originaldaten uebernehmen, b862db1 fix: neue Offline-Alben am Ende statt alphabetisch sortieren, 7dc3047 fix(#34): Offline-Paste nur nach dauerhafter Speicherung zaehlen",
