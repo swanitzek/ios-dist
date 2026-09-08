@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.35",
+          "date": "2026-09-08",
+          "localizedDescription": "Version 0.2.35 — Moonlit. 1f33ab3 fix(#31,#32): Grid nach Loeschen aller Bilder leeren, Drag-Overlay aufraeumen, 0cd7662 feat(#29,#30): Fortschritt bei Import/Export, Paste-Fehler sichtbar, Viewer-Aufblitzen",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.35.ipa",
+          "size": 627884
+        },
+        {
           "version": "0.2.34",
           "date": "2026-09-08",
           "localizedDescription": "Version 0.2.34 — Moonlit. 0cd7662 feat(#29,#30): Fortschritt bei Import/Export, Paste-Fehler sichtbar, Viewer-Aufblitzen, 3bbcdb1 fix: Sitzungscheck nur bei Server-Aktionen, nicht beim Oeffnen der Galerie",
