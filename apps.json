@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.52",
+          "date": "2026-09-10",
+          "localizedDescription": "Version 0.2.52 — Moonlit. df392a4 feat(#44): schlage Zwei-Wort-Albumnamen vor, 4f643c5 fix(perf): Preload ohne Online-Blockade und mit RAM-Limit, 5d232e6 perf(#47): Offline-Übersicht ohne Dateisystemarbeit rendern",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.52.ipa",
+          "size": 881897
+        },
+        {
           "version": "0.2.51",
           "date": "2026-09-10",
           "localizedDescription": "Version 0.2.51 — Moonlit. d990600 perf(#47): Navigationszustand ohne Main-Thread-Blockade sichern, 32e236e perf(#46,#47): Thumbnail-Pipeline von Scroll und Navigation entkoppeln, f258638 fix(#30): Viewer-Platzhalter beim Paging schwarz halten",
