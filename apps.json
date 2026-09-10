@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.55",
+          "date": "2026-09-10",
+          "localizedDescription": "Version 0.2.55 — Moonlit. 5420939 fix: falsches Anführungszeichen im Löschen-Hinweistext (Compile-Fehler), e1055ad feat(#9): Alben per Drag&Drop neu anordnen, 8b41b9a feat(#1): Originale nach Import optional aus der Fotomediathek löschen",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.55.ipa",
+          "size": 937644
+        },
+        {
           "version": "0.2.54",
           "date": "2026-09-10",
           "localizedDescription": "Version 0.2.54 — Moonlit. d343fa0 fix(viewer): Fehl-Flash beim Zurueckwischen + Sprung beim Original-Laden, 3fa75f8 ci(budget): Build-Check nur noch auf PR und manuell, nicht auf jeden Push, bdb15f2 perf(cache): Vollbild-Originale zusaetzlich auf verschluesseltem Disk cachen",
