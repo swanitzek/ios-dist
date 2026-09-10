@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.53",
+          "date": "2026-09-10",
+          "localizedDescription": "Version 0.2.53 — Moonlit. 3fa75f8 ci(budget): Build-Check nur noch auf PR und manuell, nicht auf jeden Push, bdb15f2 perf(cache): Vollbild-Originale zusaetzlich auf verschluesseltem Disk cachen, 6fcb89c fix(#44): Vorschlag nur nach Link-Tap einsetzen",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.53.ipa",
+          "size": 883390
+        },
+        {
           "version": "0.2.52",
           "date": "2026-09-10",
           "localizedDescription": "Version 0.2.52 — Moonlit. df392a4 feat(#44): schlage Zwei-Wort-Albumnamen vor, 4f643c5 fix(perf): Preload ohne Online-Blockade und mit RAM-Limit, 5d232e6 perf(#47): Offline-Übersicht ohne Dateisystemarbeit rendern",
