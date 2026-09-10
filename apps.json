@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.51",
+          "date": "2026-09-10",
+          "localizedDescription": "Version 0.2.51 — Moonlit. d990600 perf(#47): Navigationszustand ohne Main-Thread-Blockade sichern, 32e236e perf(#46,#47): Thumbnail-Pipeline von Scroll und Navigation entkoppeln, f258638 fix(#30): Viewer-Platzhalter beim Paging schwarz halten",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.51.ipa",
+          "size": 863812
+        },
+        {
           "version": "0.2.50",
           "date": "2026-09-10",
           "localizedDescription": "Version 0.2.50 — Moonlit. 211fd58 feat(sync): Share-Sheet fuer fehlgeschlagene Uploads in der Warteschlange, 6cc0084 fix(upload): Dateiformat aus echten Bytes statt geratenem Content-Type",
