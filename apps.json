@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.56",
+          "date": "2026-09-10",
+          "localizedDescription": "Version 0.2.56 — Moonlit. 42da28b fix(#1): PhotosPicker mit photoLibrary:.shared() — itemIdentifier war immer nil, 5420939 fix: falsches Anführungszeichen im Löschen-Hinweistext (Compile-Fehler), e1055ad feat(#9): Alben per Drag&Drop neu anordnen",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.56.ipa",
+          "size": 936097
+        },
+        {
           "version": "0.2.55",
           "date": "2026-09-10",
           "localizedDescription": "Version 0.2.55 — Moonlit. 5420939 fix: falsches Anführungszeichen im Löschen-Hinweistext (Compile-Fehler), e1055ad feat(#9): Alben per Drag&Drop neu anordnen, 8b41b9a feat(#1): Originale nach Import optional aus der Fotomediathek löschen",
