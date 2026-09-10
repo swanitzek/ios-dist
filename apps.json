@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.49",
+          "date": "2026-09-10",
+          "localizedDescription": "Version 0.2.49 — Moonlit. 6cc0084 fix(upload): Dateiformat aus echten Bytes statt geratenem Content-Type, a3effe0 fix(offline): hide zero-byte availability banner (#45)",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.49.ipa",
+          "size": 855537
+        },
+        {
           "version": "0.2.48",
           "date": "2026-09-09",
           "localizedDescription": "Version 0.2.48 — Moonlit. a3effe0 fix(offline): hide zero-byte availability banner (#45), b4ecba7 ux(#41): Offline-Steuerung als fixer Footer ganz unten anpinnen, ec1d77c test: Album-Gleichheit korrigiert — == prueft auch items, nicht nur Pfad",
