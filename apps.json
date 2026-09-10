@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.54",
+          "date": "2026-09-10",
+          "localizedDescription": "Version 0.2.54 — Moonlit. d343fa0 fix(viewer): Fehl-Flash beim Zurueckwischen + Sprung beim Original-Laden, 3fa75f8 ci(budget): Build-Check nur noch auf PR und manuell, nicht auf jeden Push, bdb15f2 perf(cache): Vollbild-Originale zusaetzlich auf verschluesseltem Disk cachen",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.54.ipa",
+          "size": 883954
+        },
+        {
           "version": "0.2.53",
           "date": "2026-09-10",
           "localizedDescription": "Version 0.2.53 — Moonlit. 3fa75f8 ci(budget): Build-Check nur noch auf PR und manuell, nicht auf jeden Push, bdb15f2 perf(cache): Vollbild-Originale zusaetzlich auf verschluesseltem Disk cachen, 6fcb89c fix(#44): Vorschlag nur nach Link-Tap einsetzen",
