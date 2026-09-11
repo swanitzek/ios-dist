@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.57",
+          "date": "2026-09-11",
+          "localizedDescription": "Version 0.2.57 — Moonlit. 4f324d0 fix: fehlender albumPath-Parameter im SyncCenter-Vorschau-Viewer, 6dcc191 feat(#49): Vollbild-Aktionsleiste (Teilen/Löschen), Favoriten-Viewer entfernt statt löscht, a93342f feat(#14,#15): Favoriten markieren/entfernen + virtuelles Favoriten-Album",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.57.ipa",
+          "size": 1058127
+        },
+        {
           "version": "0.2.56",
           "date": "2026-09-10",
           "localizedDescription": "Version 0.2.56 — Moonlit. 42da28b fix(#1): PhotosPicker mit photoLibrary:.shared() — itemIdentifier war immer nil, 5420939 fix: falsches Anführungszeichen im Löschen-Hinweistext (Compile-Fehler), e1055ad feat(#9): Alben per Drag&Drop neu anordnen",
