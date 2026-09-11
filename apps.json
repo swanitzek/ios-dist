@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.58",
+          "date": "2026-09-11",
+          "localizedDescription": "Version 0.2.58 — Moonlit. 87c9ed3 feat(#17): Alben vollständig verwalten — umbenennen, verschieben, löschen, Cover, c8a5cab feat(#22): Medien in ein anderes Album kopieren, 2d29b3f feat(#16): Medien in ein anderes Album verschieben",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.58.ipa",
+          "size": 1183112
+        },
+        {
           "version": "0.2.57",
           "date": "2026-09-11",
           "localizedDescription": "Version 0.2.57 — Moonlit. 4f324d0 fix: fehlender albumPath-Parameter im SyncCenter-Vorschau-Viewer, 6dcc191 feat(#49): Vollbild-Aktionsleiste (Teilen/Löschen), Favoriten-Viewer entfernt statt löscht, a93342f feat(#14,#15): Favoriten markieren/entfernen + virtuelles Favoriten-Album",
