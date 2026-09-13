@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.59",
+          "date": "2026-09-13",
+          "localizedDescription": "Version 0.2.59 — Moonlit. 0eed224 feat(settings): run dedup and report actual savings, 91e9cac feat(settings): show encrypted server storage usage, fb56995 fix(#50): Sperrbildschirm blitzt nicht mehr beim Zwischenablage-Zugriff auf",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.59.ipa",
+          "size": 1217631
+        },
+        {
           "version": "0.2.58",
           "date": "2026-09-11",
           "localizedDescription": "Version 0.2.58 — Moonlit. 87c9ed3 feat(#17): Alben vollständig verwalten — umbenennen, verschieben, löschen, Cover, c8a5cab feat(#22): Medien in ein anderes Album kopieren, 2d29b3f feat(#16): Medien in ein anderes Album verschieben",
