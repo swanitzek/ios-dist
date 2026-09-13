@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.61",
+          "date": "2026-09-13",
+          "localizedDescription": "Version 0.2.61 — Moonlit. 7b62679 feat(diagnostics): retain local sanitized error log, 59510ec feat(errors): preserve API diagnostics in iOS UI, 60b9122 fix(offline): discard deleted album from restored navigation",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.61.ipa",
+          "size": 1234474
+        },
+        {
           "version": "0.2.60",
           "date": "2026-09-13",
           "localizedDescription": "Version 0.2.60 — Moonlit. 4ac0a86 fix(offline): isolate album detail state by path, dd43ba6 fix(offline): leave deleted local album detail view, 0eed224 feat(settings): run dedup and report actual savings",
