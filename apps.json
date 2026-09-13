@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.60",
+          "date": "2026-09-13",
+          "localizedDescription": "Version 0.2.60 — Moonlit. 4ac0a86 fix(offline): isolate album detail state by path, dd43ba6 fix(offline): leave deleted local album detail view, 0eed224 feat(settings): run dedup and report actual savings",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.60.ipa",
+          "size": 1218620
+        },
+        {
           "version": "0.2.59",
           "date": "2026-09-13",
           "localizedDescription": "Version 0.2.59 — Moonlit. 0eed224 feat(settings): run dedup and report actual savings, 91e9cac feat(settings): show encrypted server storage usage, fb56995 fix(#50): Sperrbildschirm blitzt nicht mehr beim Zwischenablage-Zugriff auf",
