@@ -47,6 +47,13 @@
       "tintColor": "A8C0FF",
       "versions": [
         {
+          "version": "0.2.64",
+          "date": "2026-09-13",
+          "localizedDescription": "Version 0.2.64 — Moonlit. 0914290 Add Forgejo Actions build-check workflow for MBP runner, 59cde30 feat(viewer): interaktiver Zoom-out zur Kachel beim Wegwischen, 1307358 test: update album conflict diagnostic expectation",
+          "downloadURL": "https://swanitzek.github.io/ios-dist/ipas/Moonlit-unsigned-0.2.64.ipa",
+          "size": 1275752
+        },
+        {
           "version": "0.2.63",
           "date": "2026-09-13",
           "localizedDescription": "Version 0.2.63 — Moonlit. 1307358 test: update album conflict diagnostic expectation, 0afec83 fix: address reliability and privacy audit findings",
